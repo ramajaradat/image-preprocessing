@@ -1,5 +1,5 @@
 opencv-contrib-python
-numpy
+opencv-python==4.5.5numpy
 matplotlib
 imutils
 scikit-image
